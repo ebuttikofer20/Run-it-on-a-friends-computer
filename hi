@@ -2,7 +2,7 @@
 
 cd ~/Desktop
 
-for ((a=1;a<=3;a++))
+for ((a=1;a>0;a++))
 do touch $a
 
 done
